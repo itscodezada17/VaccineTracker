@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VaccineTracker</string>
+    <string name="search">SEARCH</string>
+    <string name="enter_pin_code">Enter Your Pin Code</string>
+    <string name="book_slot">Book Slot/Register Yourself</string>
+
+</resources>
